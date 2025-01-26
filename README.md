@@ -9,3 +9,13 @@ Recently, they are on a bit of a slump (their worst stretch under Joe). Brian Sc
 Data:
 - Celtics box scores for '22-'23, '23-'24, and '24-'25 (so far) seasons (Joe Mazzulla Era)
 - 
+
+Other theories/ideas to explore:
+- Celtics 29-0 with tatum usage > 35% (verify)
+- cluster across allteams recent data to find similar teams (steve kerr theory)
+  - warriors dynasty
+  - d'antoni rockets
+  - bucks champs
+  - 4- all star hawks
+  - lebron/ky/JR cavs
+- 
