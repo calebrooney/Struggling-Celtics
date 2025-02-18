@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-## set year and stop to get create JSON of advanced stats for all players in a season from seasons (year-stop)
+## set year and stop to get JSON of advanced stats for all players in a season from seasons (year-stop)
 ## 1993 is earliest year available, 2025 is latest year available
 
 def importADVbySeas(year, stop):
@@ -111,6 +111,8 @@ def importADVbyTeam(team):
     df.to_json(output_file, orient='records')
     print(df)
     print(f"Data saved to {output_file}")
+
+    return df
 
 # importADVbyTeam('BOS')
 
